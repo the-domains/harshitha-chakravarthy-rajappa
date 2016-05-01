@@ -1,7 +1,7 @@
 name: Harshitha Chakravarthy Rajappa
 favicon: null
-layout_spectrum: 0.1674337920267135
-typography_spectrum: 0.6390339664649218
+layout_spectrum: 1
+typography_spectrum: 0.36441
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#fffff5'
+    - '#121711'
+    - '#b4641d'
+    - '#6d402d'
+    - '#940521'
   brandStrength: 0.6276378030888736
-  lightness: 0.24575421819463372
-  saturation: 0.9153244467452168
-  rhythmicContrast: 0.17398805380798876
+  lightness: 0.4375
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
